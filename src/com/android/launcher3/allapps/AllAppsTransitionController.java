@@ -179,6 +179,10 @@ public class AllAppsTransitionController implements TouchController, VerticalPul
         return true;
     }
 
+    public void setColor(int color) {
+        mAllAppsBackgroundColor = color;
+    }
+
     @Override
     public boolean onTouchEvent(MotionEvent ev) {
         return mDetector.onTouchEvent(ev);
