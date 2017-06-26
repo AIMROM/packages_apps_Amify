@@ -24,4 +24,17 @@
     <!-- Predictive apps -->
     <string name="predictive_apps_title">Predictive apps</string>
     <string name="predictive_apps_title_summary">Display the recently used applications inside the app drawer</string>
+    <!-- Icon Pack: Preference -->
+    <string name="icon_pack_title">Icon Pack</string>
+    <string name="icon_pack_default">Default</string>
+    <!-- Icon Pack: Edit Dialog -->
+    <string name="edit_drop_target_label">Edit</string>
+    <string name="edit_app">Edit</string>
+    <string name="reset">Reset</string>
+    <string name="save">Save</string>
+    <!-- Icon Pack: Icon Chooser -->
+    <string name="icon_chooser_title">Choose an icon</string>
+    <string name="icon_chooser_similar">Similar</string>
+    <string name="icon_chooser_all">All</string>
+    <string name="loading">Loading, please wait</string>
 </resources>
